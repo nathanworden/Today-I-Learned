@@ -1,5 +1,7 @@
 ### Horizontally center a element with a fixed width
 
+7/15/20
+
 To horizontally center a positioned element with a fixed width, you can move it to the center of the container with a `left` offset of 50%, and a negative left margin that is half the width of the element.
 
 ```css
